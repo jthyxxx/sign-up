@@ -195,7 +195,7 @@ select:-webkit-autofill {
   .top .odinLogo h1 {
     color: rgb(28, 12, 91);
     font-family: "NorseBold";
-    font-size: 3rem;
+    font-size: 7vh;
   }
 
   .bottom {
